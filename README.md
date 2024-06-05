@@ -60,7 +60,7 @@ Elaboramos un diagrama de Gantt, en donde se indica el responsable de cada tarea
 Como se observa, el primer sprint fue destinado principalmente a poner en marcha el proyecto y hacer un análisis preliminar de los datos y las tecnologías a utilizar.
 
 <div align="center">
-  <img src="assets/imagenes/sprint1.png" alt="Logo" >
+  <img src="assets/imagenes/sprint1-transformed.png" alt="Logo" >
 </div>
 
 ### Sprint 2
@@ -68,7 +68,7 @@ Como se observa, el primer sprint fue destinado principalmente a poner en marcha
 En el segundo sprint los roles van a ser fundamentales, y cada sector tendrá tareas más específicas y relacionadas al rol definido. Sin embargo, al ser el objetivo principal de este sprint finalizar la infraestructura del proyecto, el sector de ingeniería de datos tendrá un rol prioritario y los demás sectores deben  brindar soporte en caso de ser necesario.
 
 <div align="center">
-  <img src="assets/imagenes/sprint2.png" alt="Logo" >
+  <img src="assets/imagenes/sprint2-transformed.png" alt="Logo" >
 </div>
 
 ### Sprint 3
@@ -76,7 +76,7 @@ En el segundo sprint los roles van a ser fundamentales, y cada sector tendrá ta
 En el tercer sprint se busca tener los modelos de machine learning y el dashboard listos, haciendo foco en el story telling y en lograr presentación más que integre todo el proyecto de manera completa, concisa y profesional.
 
 <div align="center">
-  <img src="assets/imagenes/sprint3.png" alt="Logo" >
+  <img src="assets/imagenes/sprint3-transformed.png" alt="Logo" >
 </div>
 
 &nbsp;
