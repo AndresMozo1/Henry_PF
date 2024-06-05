@@ -44,11 +44,14 @@ Estamos entusiasmados por esta oportunidad de trabajar con Darden y confiamos en
 
 El conjunto de datos utilizado en este análisis contiene información sobre las "reseñas" que los usuarios de las plataformas Google Maps y Yelp dejan sobre los establecimientos a los que asisten. Y toda la metadata referente a estos establecimientos, como ubicación, horarios de apertura y cierre, y características varias como infraestructura, servicios, ambiente, etc.
 
-<div style="display: flex; gap: 40px; justify-content: center;">
-  <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
-  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
-</div>
 
+<div align="center">
+  <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
+</div>
+  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
+<div align="center">
+  
+</div>
 ## Plan de trabajo
 
 Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera:
