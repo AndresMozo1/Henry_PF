@@ -1,7 +1,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/imagenes/logo_insight_final.jpeg" alt="Logo" >
+  <img src="https://github.com/litcoininvestorbros/Henry_PF/blob/main/assets/imagenes/Insight_logo-removebg-preview-removebg-preview.png" alt="Logo" >
 </div>
 
 &nbsp;
