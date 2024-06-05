@@ -53,6 +53,7 @@ El conjunto de datos utilizado en este análisis contiene información sobre las
 <div align="center">
   <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
 </div>
+
 ## Plan de trabajo
 
 Por medio de la metodologia SCRUM nos organizamos en equipo repartiendo el trabajo de la siguiente manera:
