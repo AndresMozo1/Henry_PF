@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-  <img src="assets/imagenes/grupo_darden.jpg" alt="Grupo_Darden" >
+  <img src="assets/imagenes/grupo_darden.jpg" alt="Grupo_Darden" with = "700" >
 </div>
 
 &nbsp;
@@ -48,9 +48,10 @@ El conjunto de datos utilizado en este análisis contiene información sobre las
 <div align="center">
   <img src="assets/imagenes/g_maps_logo.jpg" alt="Google Maps" width="120">
 </div>
-  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
-<div align="center">
+
   
+<div align="center">
+  <img src="assets/imagenes/yelp_logo.jpg" alt="Yelp" width="300">
 </div>
 ## Plan de trabajo
 
